@@ -42,3 +42,7 @@ The R-squared score is calculated to measure the model's accuracy on the test se
 Note
 
 The model fitting process may take some time, depending on the dataset size.
+
+CREDITS
+Tom Bergmanis
+Pythonprogramming.net
